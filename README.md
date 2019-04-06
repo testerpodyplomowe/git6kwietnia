@@ -12,4 +12,6 @@ Aby uzywac nalezy:
 - Appium
 - Jenkins
 
+## Pozostałe narzędzia testerskie
+
 Copyright by TESTER TEAM
