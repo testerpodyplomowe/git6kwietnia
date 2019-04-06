@@ -12,4 +12,10 @@ Aby uzywac nalezy:
 - Appium
 - Jenkins
 
+## Edukacja
+- WSB Tester oprogramowania dla aplikacji mobilnych i serwerowych
+- ISTQB
+- ITIL
+
+
 Copyright by TESTER TEAM
