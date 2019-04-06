@@ -12,12 +12,17 @@ Aby uzywac nalezy:
 - Appium
 - Jenkins
 
+
+## Moje certyfikaty:
+- Certyfikat ISTQB Poziom Podstawowy
+- UX-PM Level 2 - Executing UX 
 ## Pozostałe narzędzia testerskie
 
 
 ## SeleniumWeb Driver czy RobotFrameWork
 * tak tak
 * nie nie
+
 
 
 
