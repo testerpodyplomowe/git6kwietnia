@@ -14,4 +14,11 @@ Aby uzywac nalezy:
 
 ## Pozostałe narzędzia testerskie
 
+
+## SeleniumWeb Driver czy RobotFrameWork
+* tak tak
+* nie nie
+
+
+
 Copyright by TESTER TEAM
