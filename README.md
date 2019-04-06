@@ -12,8 +12,10 @@ Aby uzywac nalezy:
 - Appium
 - Jenkins
 
+
 ## SeleniumWeb Driver czy RobotFrameWork
 * tak tak
 * nie nie
+
 
 Copyright by TESTER TEAM
