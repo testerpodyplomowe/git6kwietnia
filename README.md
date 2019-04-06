@@ -12,4 +12,9 @@ Aby uzywac nalezy:
 - Appium
 - Jenkins
 
+
+## Moje certyfikaty:
+- Certyfikat ISTQB Poziom Podstawowy
+- UX-PM Level 2 - Executing UX 
+
 Copyright by TESTER TEAM
