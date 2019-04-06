@@ -5,3 +5,7 @@
 Aby uzywac nalezy:
 * Pobierz  materialy ze strony xyz
 * Uruchom plik START
+
+
+
+Copyright by TESTER TEAM
