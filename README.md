@@ -12,4 +12,8 @@ Aby uzywac nalezy:
 - Appium
 - Jenkins
 
+## Języki programowania:
+- Python 
+- bash
+
 Copyright by TESTER TEAM
