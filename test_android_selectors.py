@@ -16,7 +16,7 @@ class TestAndroidBasicInteractions():
                 'app': ANDROID_APP_PATH,
                 'platformName': 'Android',
                 'automationName': 'UIAutomator2',
-                'platformVersion': os.getenv('ANDROID_PLATFORM_VERSION') or '7.1',
+                'platformVersion': os.getenv('ANDROID_PLATFORM_VERSION') or '9.0',
                 'deviceName': os.getenv('ANDROID_DEVICE_VERSION') or 'Android'
             }
         )
