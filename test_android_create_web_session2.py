@@ -31,10 +31,10 @@ class TestAndroidCreateWebSession():
         return driver
 
     def test_should_create_and_destroy_android_session(self, driver):
-        driver.get('https://www.apple.com')
+        driver.get('https://www.microsoft.com')
         title = driver.title
 
-        assert 'Apple' == title
+        assert 'Microsoft' == title
 
         with pytest.raises(InvalidSessionIdException) as excinfo:
             driver.title
