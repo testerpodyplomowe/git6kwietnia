@@ -12,4 +12,7 @@ Aby uzywac nalezy:
 - Appium
 - Jenkins
 
+## Dodane zmiany
+
+
 Copyright by TESTER TEAM
