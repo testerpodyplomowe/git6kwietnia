@@ -13,6 +13,12 @@ Aby uzywac nalezy:
 - Jenkins
 
 
+## Edukacja
+- WSB Tester oprogramowania dla aplikacji mobilnych i serwerowych
+- ISTQB
+- ITIL
+
+
 ## Moje certyfikaty:
 - Certyfikat ISTQB Poziom Podstawowy
 - UX-PM Level 2 - Executing UX 
