@@ -34,4 +34,8 @@ Aby uzywac nalezy:
 
 
 
+## Języki programowania:
+- Python 
+- bash
+
 Copyright by TESTER TEAM
