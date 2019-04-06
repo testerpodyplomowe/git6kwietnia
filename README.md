@@ -11,6 +11,8 @@ Aby uzywac nalezy:
 - Robot Framework
 - Appium
 - Jenkins
+- Docker
+- jMETER
 
 
 ## Edukacja
